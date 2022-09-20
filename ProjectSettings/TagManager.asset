@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Sign
+  - heart
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3101487281
+    locked: 0
+  - name: Mid decoration
+    uniqueID: 2997942617
+    locked: 0
+  - name: Foreground
+    uniqueID: 1635143719
+    locked: 0
+  - name: ui
+    uniqueID: 3233968247
+    locked: 0
+  - name: Player
+    uniqueID: 3761330401
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Start foreground
+    uniqueID: 607410911
+    locked: 0
+  - name: Start background
+    uniqueID: 3327887733
+    locked: 0
+  - name: Start UI
+    uniqueID: 3950570251
+    locked: 0
